@@ -1,4 +1,4 @@
-# Dynamic Systems Projec
+# Dynamic Systems Project
 Marco Secci and William Majer
 
 # What is it about
