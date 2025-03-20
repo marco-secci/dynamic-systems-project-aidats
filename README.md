@@ -12,6 +12,7 @@ In the directory [src](https://github.com/marco-secci/dynamic-systems-project-ai
 # Resolution
 
 The considered case is when a = 2 and b = 1.
+
 To identify the equilibrium points we solved simultaneously the equations and plotted fuctions.
 We calculate the *Jacobian Matrix* and evaluate at all fixed points using LaTeX display for all matrices to analysize eigenvectors.
 We found isoclines which happens in the equilibria points. After verifying their coordinates we made a plot to have a visual dimostration.
